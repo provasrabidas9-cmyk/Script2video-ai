@@ -1,0 +1,6 @@
+{
+  "name": "Script2Video AI",
+  "description": "AI Script-to-Video creation studio supporting Bengali, Hindi, and English with script analysis, scene generation, visuals, voice-over, subtitles, and video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
